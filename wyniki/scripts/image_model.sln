@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "image_model", "image_model.pyproj", "{FE5D56B9-22ED-4FD1-8671-577CAF944915}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "data_model", "..\data_model\data_model.pyproj", "{3F154506-CED4-4AAE-A678-AFA3F385B59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5D56B9-22ED-4FD1-8671-577CAF944915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5D56B9-22ED-4FD1-8671-577CAF944915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F154506-CED4-4AAE-A678-AFA3F385B59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F154506-CED4-4AAE-A678-AFA3F385B59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5EB331-40C1-43B4-B149-2E965F32DF11}
+	EndGlobalSection
+EndGlobal
