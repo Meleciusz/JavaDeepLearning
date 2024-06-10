@@ -63,6 +63,7 @@ def load_data(folder):
 
 #main_folder = '../data_5_classes/'
 main_folder = '../data_5_classes_4_markers/'
+#images_folder = '../images_5/'
 images_folder = '../images_5_4_markers/'
 image_extension = '.jpeg'
 data, labels = load_data(main_folder)
