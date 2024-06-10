@@ -5,3 +5,6 @@
 *.xlsx
 *.jpeg
 *.h5
+/.vs
+/wyniki/scripts/.vs/image_model/FileContentIndex
+/wyniki/scripts/.vs/image_model/v17/.suo
